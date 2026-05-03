@@ -1,4 +1,4 @@
-#  About Me:
+# 💫 About Me:
 I am a BCA graduate building a strong foundation in Java and Full-Stack development. I enjoy turning logical ideas into real, functional web applications—like my recent project, SCM 2.0.<br><br>I have a deep curiosity for understanding how things actually work. Rather than just making code run, I focus on the “how” and “why” behind every function—whether it’s tracking data flow through databases or understanding how security layers protect users.<br><br>Currently, I am working on improving my coding standards, writing clean and maintainable code, and learning how to deploy applications on live servers.<br><br>I am looking for a junior developer role where I can solve real-world problems, contribute meaningfully, and grow by learning from experienced engineers.
 
 
